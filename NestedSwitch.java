@@ -24,7 +24,7 @@ public class NestedSwitch {
     System.out.println("Management department");
     break;
     default:
-    System.out.println("No department entered");
+    System.out.println("No department entered2");
        
     }
 break;
